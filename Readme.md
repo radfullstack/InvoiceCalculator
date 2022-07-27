@@ -22,9 +22,10 @@ Tool is meant to be a one file application, so it can be easily downloaded, depl
      ✓ Confirm alert to prevent accidental deletion of subscriptions/changes
      ✓ Cross checked calculations with manual examples
      ✓ Readme.md
-
+# v. 0.3 - Refactor
+     ✓ Neccessary UI changes according to @Anna feedback
+     ✓ Calculations revised and corrected
+     ✓ Authorization so that users cannot play without providing neccessary information step by step
 # To do:
-     - Calculations need corrections due to not refreshing properly, depending on the data provided order
-     - Authorization so that users cannot play without providing neccessary information step by step
+     - Initial tests
      - Refactor to save some lines
-     - Add more comments
